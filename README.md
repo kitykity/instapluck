@@ -9,7 +9,7 @@ instapluck
 <li>Type in /instagram.com/p/
 <li>Hit enter, and a new tab will open with links to all your instagram pages.
 <li>Highlight all the links, copy them, and paste them into a text file.
-<li>Save the file to a directory called instapluck, i.e. /Users/fred/instapluck, and call it export.html.
+<li>Save the file to a directory called instapluck, i.e. /Users/fred/instapluck, and call it links.instapluck.
 <li>Save the script on this GitHub page, instapluck.bash, to your new instapluck directory.
 <li>Make it executable, run it, and enjoy!
 </ul>
